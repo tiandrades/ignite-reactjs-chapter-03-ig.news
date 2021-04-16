@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/.github/logo.svg" alt="dtmoney" />
   <h3>ig.news</h3>
-  <p>A simple transactions manager ✨</p>
+  <p>News about the React ecosystem. ✨</p>
   <hr/>
   <p>
     <a href="#-technologies">Technologies</a>&nbsp|&nbsp;
