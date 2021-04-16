@@ -29,7 +29,7 @@ An application where the user pays a monthly fee, and thus can have posts about 
 
 ```
 # Clone this repository
-$ https://github.com/tiagooandrade/ignite-reactjs-chapter-02-dtmoney.git
+$ https://github.com/tiagooandrade/ignite-reactjs-chapter-03-ig.news
 
 # Install dependencies
 $ yarn install our npm install
