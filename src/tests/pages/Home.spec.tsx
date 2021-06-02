@@ -32,7 +32,7 @@ describe('Home page', () => {
       expect.objectContaining({
         props: {
           product: {
-            price: 'fake-price-id',
+            priceId: 'fake-price-id',
             amount: '$10.00'
           }
         }
