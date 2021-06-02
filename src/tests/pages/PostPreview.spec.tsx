@@ -16,7 +16,7 @@ jest.mock('../../services/prismic');
 
 describe('Post page', () => {
   it('renders correctly', () => {
-    render(<Post post={post} />)
+    render(<Posts post={post} />)
 
     expect(screen.getByText('My New Post')).toBeInTheDocument();
     expect(screen.getByText('Post excerpt')).toBeInTheDocument();
